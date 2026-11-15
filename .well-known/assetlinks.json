@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.muriwai475_rgb.banjeoncourt",
+        "sha256_cert_fingerprints": ["B6:38:7B:FC:C3:AF:97:13:0C:0C:5B:F4:EF:52:7E:0B:3F:6C:3A:60:A3:93:05:0C:39:20:57:DE:AB:49:BD:F3"]
+      }
+    }]
